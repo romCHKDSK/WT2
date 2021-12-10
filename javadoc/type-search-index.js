@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"presentation","l":"ConsoleUI"},{"p":"persistence","l":"DAO"},{"p":"persistence","l":"DAOInterface"},{"p":"domain","l":"Product"},{"p":"application","l":"ProductFilterer"}];updateSearchResults();
