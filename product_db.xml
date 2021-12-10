@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <info type = "teapot">Teapot</info>
+        <name>Braun</name>
+        <price>300</price>
+        <material>Aluminum</material>
+        <voltage>240</voltage>
+    </product>
+    <product>
+        <info type = "phone">Phone</info>
+        <name>Apple</name>
+        <price>320</price>
+        <color>Gold</color>
+    </product>
+    <product>
+        <info type = "teapot">Teapot</info>
+        <name>Tefal</name>
+        <price>290</price>
+        <material>Aluminum</material>
+        <voltage>270</voltage>
+    </product>
+    <product>
+        <info type = "fridge">Fridge</info>
+        <name>Atlant</name>
+        <price>320</price>
+        <color>White</color>
+    </product>
+    <product>
+        <info type = "teapot">Teapot</info>
+        <name>Bosch</name>
+        <price>290</price>
+        <material>Plastic</material>
+        <voltage>220</voltage>
+    </product>
+</products>
